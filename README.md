@@ -6,9 +6,9 @@ A simple intern dashboard built with **React (Frontend)** and **Django REST API 
 
 ## 🌟 Features
 
-![Login page](https://drive.google.com/file/d/1ibtD5-7rWvQEyrqU9aDp-TxDmyyBrZ8K/view)
-![Dashboard](https://drive.google.com/file/d/1iej5IzynFZLcnjfzITvgr_g3ugoqzosG/view)
+![Login page](https://i.postimg.cc/HkRN8VWf/Login.png)
 
+![Dashboard](https://i.postimg.cc/RVX5hSHB/Dashboard.png)
 
 
 ### ✅ Frontend (React)
